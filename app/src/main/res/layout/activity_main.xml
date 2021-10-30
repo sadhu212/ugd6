@@ -11,11 +11,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         mapbox:mapbox_cameraZoom="12"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:weightSum="10">
+
         <Button
             android:id="@+id/btnStartNavigation"
             android:layout_width="0dp"
